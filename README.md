@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Om Deeshmukh
+- 👋 Hi, I’m Om Deshmukh
 - 👀 I’m interested in machine Learning and CyberSecurity
 - 🌱 I’m currently learning machine learing on Kaggle
 
