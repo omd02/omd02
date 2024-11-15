@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Om Deshmukh
-- 👀 I’m interested in machine Learning
-- 🌱 I’m currently learning machine learning on Kaggle
 
 [![@retr0's Holopin board](https://holopin.me/retr0)](https://holopin.io/@retr0)
 
